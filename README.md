@@ -19,6 +19,7 @@ Day of the week
 Product category
 
 
+
 🛠️ Technologies Used
 
 SQL – For querying and aggregating sales data
