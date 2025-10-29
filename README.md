@@ -17,7 +17,7 @@ Product category
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 SQL – For querying and aggregating sales data
 
@@ -30,7 +30,7 @@ Microsoft PowerPoint – For presenting insights and visualizations
 Miro – For brainstorming, collaboration, and visual planning
 
 
-📂 Data Sources
+## 📂 Data Sources
 
 
 Sales transaction data from Bright Coffee Shop’s internal systems (Jan–Jun 2025)
@@ -44,43 +44,43 @@ Presentation visuals created in PowerPoint
 Collaborative planning via Miro boards
 
 
-🧠 Key Insights
+## 🧠 Key Insights
 
-📈 Revenue Trends
+### 📈 Revenue Trends
 
 Steady growth from January to June
 
 May and June show peak performance
 
 
-🏪 Store Performance
+### 🏪 Store Performance
 
 Even revenue distribution across locations
 
 Hell's Kitchen slightly leads
 
 
-📅 Weekday Analysis
+### 📅 Weekday Analysis
 
 Monday and Thursday are peak days
 
 Weekends slightly underperform
 
-⏰ Time of Day
+### ⏰ Time of Day
 
 Morning sales dominate
 
 Evening sales underperform
 
 
-🍵 Product Categories
+### 🍵 Product Categories
 
 Coffee and Tea = 69% of revenue
 
 Other categories underperform
 
 
-📌 Recommendations
+## 📌 Recommendations
 
 Boost midweek and weekend sales with targeted promotions
 
