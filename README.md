@@ -83,9 +83,9 @@ Miro – For brainstorming, collaboration, and visual planning
 
 ### 🍵 Product Categories
 
-Coffee and Tea = 69% of revenue
+-Coffee and Tea = 69% of revenue
 
-Other categories underperform
+-Other categories underperform
 
 
 ## 📌 Recommendations
@@ -103,6 +103,9 @@ Other categories underperform
   
 - Monitor supply chain risks for coffee and tea due to high dependency
 
-##👤 Author
 
-**Rethabile Tjotjo**
+## 👤 Author
+
+**Rethabile Tjotjo**  
+Sales Analyst | Bright Coffee
+
