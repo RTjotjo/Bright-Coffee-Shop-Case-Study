@@ -1,12 +1,9 @@
-# Bright-Coffee-Shop-Case-Study
-This repository contains a case study of a coffee shop chain operating across three locations. It explores business operations, customer behavior, sales performance, and location-specific trends. The project includes data analysis, visualizations, and strategic insights aimed at improving operational efficiency and customer satisfaction.
+# ☕ Bright Coffee Shop - Sales Analysis
 
-☕ Bright Coffee Shop - Sales Analysis
-
-Welcome to the Bright Coffee Shop Sales Analysis repository! This project presents a comprehensive breakdown of sales performance across multiple store locations, time periods, and product categories for the first half of 2025.
+Welcome to the Bright Coffee Shop Sales Analysis repository! This project presents a comprehensive breakdown of sales performance across multiple store locations, time periods, and product categories for the first half of 2025.The project includes data analysis, visualizations, and strategic insights aimed at improving operational efficiency and customer satisfaction.
 
 
-📊 Overview
+## 📊 Overview
 
 This analysis was conducted to understand revenue trends, identify high-performing segments, and uncover opportunities for growth. The data spans from January to June 2025 and includes insights by:
 
