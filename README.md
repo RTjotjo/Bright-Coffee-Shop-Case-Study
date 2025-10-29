@@ -103,6 +103,31 @@ Miro – For brainstorming, collaboration, and visual planning
   
 - Monitor supply chain risks for coffee and tea due to high dependency
 
+## 🛠️ Technologies Used
+
+SQL – For querying and aggregating sales data
+
+Snowflake – Cloud data platform used for storing and processing large datasets
+
+Microsoft Excel – Used for data cleaning, pivot tables, and preliminary analysis
+
+Microsoft PowerPoint – For presenting insights and visualizations
+
+Miro – For brainstorming, collaboration, and visual planning
+
+
+## 📂 Data Sources
+
+
+-Sales transaction data from Bright Coffee Shop’s internal systems (Jan–Jun 2025)
+
+-Store-level metrics extracted via SQL from Snowflake
+
+-Time and category breakdowns analyzed in Excel
+
+-Presentation visuals created in PowerPoint
+
+-Collaborative planning via Miro boards
 
 ## 👤 Author
 
