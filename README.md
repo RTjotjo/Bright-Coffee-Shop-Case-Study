@@ -21,32 +21,6 @@ This analysis was conducted to understand revenue trends, identify high-performi
   
 All three locations show consistent performance with less than 1% variance in revenue contribution.
 
-## 🛠️ Technologies Used
-
-SQL – For querying and aggregating sales data
-
-Snowflake – Cloud data platform used for storing and processing large datasets
-
-Microsoft Excel – Used for data cleaning, pivot tables, and preliminary analysis
-
-Microsoft PowerPoint – For presenting insights and visualizations
-
-Miro – For brainstorming, collaboration, and visual planning
-
-
-## 📂 Data Sources
-
-
--Sales transaction data from Bright Coffee Shop’s internal systems (Jan–Jun 2025)
-
--Store-level metrics extracted via SQL from Snowflake
-
--Time and category breakdowns analyzed in Excel
-
--Presentation visuals created in PowerPoint
-
--Collaborative planning via Miro boards
-
 
 ## 🧠 Key Insights
 
@@ -119,7 +93,7 @@ Miro – For brainstorming, collaboration, and visual planning
 ## 📂 Data Sources
 
 
--Sales transaction data from Bright Coffee Shop’s internal systems (Jan–Jun 2025)
+-Sales transaction data from Bright Coffee Shop’s internal systems (Jan–Jun 2025) 
 
 -Store-level metrics extracted via SQL from Snowflake
 
